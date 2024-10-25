@@ -1,4 +1,4 @@
-A biotechnologist by training and Al/ML enthusiast.
+A biotechnologist by training, aspiring Computational biologist and Al/ML enthusiast.
 
 This is my project for masters dissertation: 
 Understanding the antimicrobial resistance mechanism of alanine racemase in Mycobacterium tuberculosis against Cycloserine.
