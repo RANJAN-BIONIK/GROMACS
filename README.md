@@ -1,8 +1,8 @@
-This is my project for masters dissertation. 
+A biotechnologist by training and Al/ML enthusiast.
 
+This is my project for masters dissertation: 
 Understanding the antimicrobial resistance mechanism of alanine racemase in Mycobacterium tuberculosis against Cycloserine.
 
-A biotechnologist by training and Al/ML enthusiast.
 The codes in this project were already present in some GitHub pages, i integrated those GitHub pages with some my tweeks to create a Workflow from Protein Prediction to molecular dynamics simulation.
 
 Acknowledgement and references: 
