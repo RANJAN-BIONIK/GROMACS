@@ -13,4 +13,6 @@ https://github.com/sokrypton/ColabFold
 Lu, W., Zhang, J., Huang, W. et al. DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model. Nat Commun 15, 1071 (2024). https://doi.org/10.1038/s41467-024-45461-2
 https://github.com/luwei0917/DynamicBind
 
+https://github.com/paulshamrat/ColabMDA
+
 My sincere apologies for using your repositories for my work without permission.
