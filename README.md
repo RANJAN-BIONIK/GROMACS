@@ -6,6 +6,7 @@ Understanding the antimicrobial resistance mechanism of alanine racemase in Myco
 The codes in this project were already present in some GitHub pages, i integrated those GitHub pages with some my tweeks to create a Workflow from Protein Prediction to molecular dynamics simulation.
 
 Acknowledgement and references: 
+
 Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S and Steinegger M. ColabFold: Making protein folding accessible to all.Nature Methods (2022) doi: 10.1038/s41592-022-01488-1
 https://github.com/sokrypton/ColabFold
 
