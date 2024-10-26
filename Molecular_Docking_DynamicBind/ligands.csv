@@ -1,0 +1,5 @@
+name,ligand,,
+lig1,CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O,,
+lig2,C1[C@H](C(=O)NO1)N,,
+lig3,CC1=NC=C(C(=C1O)C[NH2+]C2=CONC2=O)COP(=O)(O)O,,
+,,,
